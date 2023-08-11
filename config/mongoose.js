@@ -1,7 +1,7 @@
 const mongoose = require('mongoose');
 
 // storing the db on mongo atlas
-const DB = "mongodb+srv://rahul:8591@cluster0.ayhnicu.mongodb.net/?retryWrites=true&w=majority";
+const DB = "mongodb+srv://rk152531:8591@codeial-cluster.8em6elr.mongodb.net/Habbit_tracker";
 
 // mongoose.connect('mongodb://127.0.0.1/habit_tracker');
 
